@@ -1,0 +1,6 @@
+com\etc\service\impl\CompanyServiceImpl.class
+com\etc\service\JobService.class
+com\etc\service\TypeService.class
+com\etc\service\impl\JobServiceImpl.class
+com\etc\service\impl\TypeServiceImpl.class
+com\etc\service\CompanyService.class
