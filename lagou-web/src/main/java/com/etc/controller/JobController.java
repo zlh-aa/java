@@ -12,7 +12,7 @@ import org.springframework.web.servlet.ModelAndView;
 import javax.annotation.Resource;
 
 @Controller
-@RequestMapping("/job")
+@RequestMapping("/jobl")
 public class JobController {
 
     @Resource
